@@ -12,7 +12,7 @@
 </p>
 <img src="https://cdn.dribbble.com/users/879147/screenshots/7906715/media/1b1d2ef35dab525ed63b8b5816813132.jpg?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
 
-
+</br>
 
 <h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
 <br/>
@@ -25,7 +25,7 @@
 [![logo jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
-
+</br>
 
 <h2 align="center"><strong> 📋 Stats </strong></h2>
 <br/>
@@ -33,7 +33,7 @@
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cetobeta&theme=tokyonight)](#)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cetobeta&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cetobetatheme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cetobeta&theme=tokyonight)
 
 </div>
