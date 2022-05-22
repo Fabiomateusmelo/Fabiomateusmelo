@@ -11,7 +11,7 @@
 </strong>
 </p>
 </p>
-<img src="https://cdn.dribbble.com/users/879147/screenshots/7906715/media/1b1d2ef35dab525ed63b8b5816813132.jpg?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.dribbble.com/users/9741/screenshots/17082373/media/6ace78ce32fcb1254079fad72b5255ce.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
 
 </br>
 </br>
