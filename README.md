@@ -2,7 +2,8 @@
 <p align="center">
   <h1 align="center">Fábio Melo 👾 </h1>
   <p>
-  <strong><h1 style="color: #2ecc71">Hello, World! </h1>
+  <strong><h1 style="color: #2ecc71">Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cetobeta&color=yellow" alt="Profile views" /> </p>
 
 - 👀 I’m interested in **Websites, Digital games and Data Science**
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
@@ -36,8 +37,9 @@
 <div width="100%" align="center">
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cetobeta&theme=tokyonight)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cetobeta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cetobeta&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cetobeta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
