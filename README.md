@@ -36,8 +36,7 @@
 <div width="100%" align="center">
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cetobeta&theme=tokyonight)](#)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cetobeta&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cetobeta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cetobeta&theme=tokyonight)
 
 </div>
