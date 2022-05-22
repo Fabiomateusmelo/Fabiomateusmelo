@@ -33,7 +33,7 @@
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cetobeta&theme=tokyonight)](#)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cetobetatheme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cetobeta&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cetobeta&theme=tokyonight)
 
 </div>
