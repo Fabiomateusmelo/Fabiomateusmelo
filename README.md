@@ -39,7 +39,7 @@
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cetobeta&theme=tokyonight)](#)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cetobeta&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cetobeta&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cetobeta&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
