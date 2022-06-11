@@ -3,7 +3,7 @@
   <h1 align="center">Fábio Melo 👾 </h1>
   <p>
   <strong><h1 style="color: #2ecc71">Hello, World! </h1>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=cetobeta&color=yellow" alt="Profile views" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
 - 👀 I’m interested in **Websites, Digital games and Data Science**
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
@@ -37,9 +37,9 @@
 <br/>
 <div width="100%" align="center">
 
-[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cetobeta&theme=tokyonight)](#)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cetobeta&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cetobeta&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiomateusmelo&theme=tokyonight)](#)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabiomateusmelo&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiomateusmelo&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
