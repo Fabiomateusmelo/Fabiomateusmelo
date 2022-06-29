@@ -11,7 +11,7 @@
 </strong>
 </p>
 </p>
-<img src="https://cdn.dribbble.com/users/9741/screenshots/17082373/media/6ace78ce32fcb1254079fad72b5255ce.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/105231558/175841537-f06efa8d-1d1d-4254-ac0c-8d2d6b83bf40.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Portifólio Fábio Melo">
 
 </br>
 </br>
