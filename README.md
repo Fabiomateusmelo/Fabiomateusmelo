@@ -13,6 +13,8 @@
 </p>
 <img src="https://user-images.githubusercontent.com/105231558/175841537-f06efa8d-1d1d-4254-ac0c-8d2d6b83bf40.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Portifólio Fábio Melo">
 </br>
+</br>
+
 <h2 align="left"><strong> 🧙‍♂️ Tech Skills </strong></h2>
 <br/>
 
@@ -29,7 +31,7 @@
 </br>
 
 
-<h2 align="right"><strong> 🔮 Stats </strong></h2>
+<h2 align="center"><strong> 🔮 Stats </strong></h2>
 <br/>
 <div width="100%" align="center">
 
