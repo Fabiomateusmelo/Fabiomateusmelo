@@ -4,7 +4,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
-- 💻 I’m interested in **Websites, Full Stack and Front-end**
+- 🌈 I’m interested in **Websites, Full Stack and Front-end**
 - ☕ I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
   
 </strong>
