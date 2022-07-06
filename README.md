@@ -6,6 +6,9 @@
 
 - 🌈 I’m interested in **Websites, Full Stack and Front-end**
 - 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
+
+</strong>
+
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Portifólio Fábio Melo">
 </br>
@@ -18,14 +21,10 @@
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![logo html5](https://img.shields.io/badge/HTML-ed5700?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![logo css3](https://img.shields.io/badge/CSS-007ACC?&style=for-the-badge&logo=css3&logoColor=white)](#)
-
 [![logo jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </br>
-</br>
-</br>
-
 
 <h2 align="center"><strong> 🔮 Stats </strong></h2>
 <br/>
@@ -43,14 +42,9 @@
 
 <h2 align="center"><strong> 🕺 Personal Info </strong></h2>
 
-
 <p align="center">
   If you want to know more about me, please visit my LinkedIn profile:</p>
   <p align="center">
   <a href="https://br.linkedin.com/in/fabio-mmelo" alt="Gmail"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" align="center"/></a>
 </p>  
-
-  <br/>
-</p>
- 
