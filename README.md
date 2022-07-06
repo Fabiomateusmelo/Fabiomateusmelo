@@ -14,6 +14,7 @@
 <h2 align="left"><strong> 🧙‍♂️ Tech Skills </strong></h2>
 
 <br/>
+</br>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
