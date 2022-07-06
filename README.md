@@ -1,12 +1,12 @@
 
 <p align="center">
-  <h1 align="center">Fábio Melo 👾 </h1>
+  <h1 align="center">Fábio Melo 🌈 </h1>
   <p>
   <strong><h1 style="color: #2ecc71">Hello, World! </h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
-- 👀 I’m interested in **Websites, Digital games and Data Science**
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
+- 💻 I’m interested in **Websites, Digital games and Data Science**
+- ☕ I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
   
 </strong>
 </p>
