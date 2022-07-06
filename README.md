@@ -10,8 +10,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Portifólio Fábio Melo">
 
 </br>
-</br>
-</br>
 
 <h2 align="left"><strong> 🧙‍♂️ Tech Skills </strong></h2>
 
@@ -25,6 +23,7 @@
 [![logo jupyter](https://img.shields.io/badge/Jupyter-ED8B00?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 
+</br>
 </br>
 </br>
 </br>
