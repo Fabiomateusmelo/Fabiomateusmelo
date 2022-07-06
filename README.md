@@ -10,7 +10,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Portifólio Fábio Melo">
 </br>
 </br>
-</br>
 
 <h2 align="left"><strong> 🧙‍♂️ Tech Skills </strong></h2>
 <br/>
