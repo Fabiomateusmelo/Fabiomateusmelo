@@ -1,8 +1,7 @@
 
 <p align="center">
-  <h1 align="center">🦄 Hello, my name is <strong>{ Fábio } !</strong> </h1>
-  <p>
-  <strong><h1 style="color: #6610f2">Hello, World!🌈</h1>
+  <h1 align="center">🦄 Hello, my name is <strong>{ Fábio } ! 🌈</strong> </h1>
+
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
 - 💻 I’m interested in **Websites, Full Stack and Front-end**
@@ -14,7 +13,7 @@
 </p>
 <img src="https://user-images.githubusercontent.com/105231558/175841537-f06efa8d-1d1d-4254-ac0c-8d2d6b83bf40.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Portifólio Fábio Melo">
 </br>
-<h2 align="left"><strong> 👩🏻‍💻 Tech Skills </strong></h2>
+<h2 align="left"><strong> 🧙‍♂️ Tech Skills </strong></h2>
 <br/>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
