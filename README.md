@@ -4,8 +4,9 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
-- 🌈 I’m interested in **Websites, Full Stack and Front-end**
-- 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
+ 🌈 I’m interested in **Websites, Full Stack and Front-end**
+
+ 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Portifólio Fábio Melo">
 
@@ -13,7 +14,6 @@
 
 <h2 align="left"><strong> 🧙‍♂️ Tech Skills </strong></h2>
 
-<br/>
 </br>
 
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -31,7 +31,7 @@
 
 <h2 align="center"><strong> 🔮 Stats </strong></h2>
 
-<br/>
+</br>
 
 <div width="100%" align="center">
 
