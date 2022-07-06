@@ -29,7 +29,7 @@
 </br>
 
 
-<h2 align="right"><strong> 📋 Stats </strong></h2>
+<h2 align="right"><strong> 🔮 Stats </strong></h2>
 <br/>
 <div width="100%" align="center">
 
@@ -45,7 +45,7 @@
 
 </div>
 
-<h2 align="center"><strong> 🧍 Personal Info </strong></h2>
+<h2 align="center"><strong> 🕺 Personal Info </strong></h2>
 
 
 <p align="center">
