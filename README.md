@@ -31,7 +31,7 @@
 
 <h2 align="center"><strong> 📋 Stats </strong></h2>
 <br/>
-<div width="100%" align="center">
+<div width="100%" align="left">
 
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiomateusmelo&theme=tokyonight)](#)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabiomateusmelo&theme=tokyonight)
