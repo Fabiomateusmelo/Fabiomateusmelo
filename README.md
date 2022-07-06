@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1 align="center">🦄 Hello, my name is <strong>{ Fábio } ! 🌈</strong> </h1>
+  <h1 align="center">🦄 Hello, my name is <strong>{ Fábio } !</strong> </h1>
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
