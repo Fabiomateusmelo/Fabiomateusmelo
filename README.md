@@ -7,10 +7,6 @@
 - 🌈 I’m interested in **Websites, Full Stack and Front-end**
 - ☕ I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS**
   
-</strong>
-
-</p>
-</p>
 <img src="https://user-images.githubusercontent.com/105231558/175841537-f06efa8d-1d1d-4254-ac0c-8d2d6b83bf40.png?compress=1&resize=1200x900&vertical=top" width="400px" align="right" alt="Portifólio Fábio Melo">
 </br>
 </br>
@@ -39,8 +35,6 @@
 [![Card mostrando estatísticas do perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiomateusmelo&theme=tokyonight)](#)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fabiomateusmelo&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiomateusmelo&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 </div>
 
