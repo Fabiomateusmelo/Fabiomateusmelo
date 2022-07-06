@@ -1,8 +1,8 @@
 
 <p align="center">
-  <h1 align="center">Fábio Melo 🌈 </h1>
+  <h1 align="center">🦄 Hello, my name is <strong>{ Fábio } !</strong> </h1>
   <p>
-  <strong><h1 style="color: #6610f2">Hello, World!🦄</h1>
+  <strong><h1 style="color: #6610f2">Hello, World!🌈</h1>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabiomateusmelo&color=yellow" alt="Profile views" /> </p>
 
 - 💻 I’m interested in **Websites, Full Stack and Front-end**
