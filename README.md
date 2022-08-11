@@ -6,8 +6,8 @@
 
  🌈 I’m interested in **Websites, Full Stack and Front-end**
 
- 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS, TypeScript,<br>
-TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React Native...**
+ 🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS,<br>
+TypeScript, TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React Native...**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Portifólio Fábio Melo">
 
