@@ -7,7 +7,8 @@
  🌈 I’m interested in **Websites, Full Stack and Front-end**
 
  🔭 I’m currently learning **JavaScript, HTML, CSS, SQL, Node.JS, React.JS,<br>
-TypeScript, TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React Native...**
+TypeScript, TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React-Native,<br>
+Jest.JS, GraphQL, SQL...**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Portifólio Fábio Melo">
 
@@ -35,6 +36,9 @@ TypeScript, TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React Native...**
 [![logo vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
 [![logo graphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
 [![logo Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
+[![logo Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![logo MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](#)
+[![logo Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](#)
 
 </br>
 </br>
