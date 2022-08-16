@@ -32,8 +32,6 @@ TypeScript, TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React Native...**
 [![](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
 
-
-
 </br>
 </br>
 </br>
