@@ -31,6 +31,10 @@ TypeScript, TailwindCSS, Next.JS, Vite.JS, Firebase, Git, React Native...**
 [![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![logo python](https://img.shields.io/badge/python-02569B?style=for-the-badge&logo=python&logoColor=white)](#)
+[![logo next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+[![logo vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](#)
+[![logo graphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](#)
+[![logo Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
 
 </br>
 </br>
